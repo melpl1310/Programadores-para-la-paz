@@ -1,0 +1,13 @@
+Ejemplo petición POST:
+{
+"tipo": "Basuras en la vía pública",
+"descripcion": "La comunidad reporta acumulación de basura en una esquina del barrio desde hace varios 
+días y solicita su recolección."
+}
+
+Respuesta esperada:
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Basuras en la vía pública",
+  "descripcion": "La comunidad reporta acumulación de basura en una esquina del barrio desde hace varios días y solicita su recolección."
+}

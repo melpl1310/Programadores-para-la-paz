@@ -1,0 +1,17 @@
+Se envió una petición POST a la ruta /registro con el siguiente JSON:
+
+{
+"nombre": "Maria",
+"mensaje": "Hola comunidad"
+}
+
+El servidor recibió los datos correctamente y respondió con un objeto JSON que contiene el estado de la 
+solicitud junto con la información enviada. La respuesta fue:
+
+{
+"estado": "Datos recibidos",
+"nombre": "Maria",
+"mensaje": "Hola comunidad"
+}
+
+Esto confirma que la API recibió y procesó correctamente los datos enviados.
