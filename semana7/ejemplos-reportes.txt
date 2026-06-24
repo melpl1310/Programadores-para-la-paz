@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+"tipo": "Seguridad",
+"descripcion": "La comunidad reporta que una cámara de vigilancia no está funcionando."
+}
+
+Ejemplo 2:
+{
+"tipo": "Espacios públicos",
+"descripcion": "Se reportan daños en los juegos infantiles del parque del barrio."
+}

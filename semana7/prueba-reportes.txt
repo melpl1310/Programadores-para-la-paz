@@ -1,0 +1,9 @@
+Primero se envió una petición POST a la ruta /reportes con la información de una incidencia relacionada 
+con infraestructura. El servidor respondió confirmando que el reporte fue registrado correctamente y le 
+asignó un identificador.
+
+Después, al realizar una petición GET a la misma ruta, el servidor devolvió la lista de reportes 
+almacenados. En la respuesta apareció el reporte registrado con su id, tipo y descripción.
+
+Esto demuestra que la aplicación puede guardar reportes enviados por los usuarios y consultarlos 
+posteriormente, permitiendo llevar un registro organizado de las incidencias reportadas por la comunidad.
