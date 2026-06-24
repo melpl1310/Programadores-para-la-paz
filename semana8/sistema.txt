@@ -1,0 +1,8 @@
+El comando uname -a permite ver información general del sistema operativo que está usando el servidor, 
+como su versión y algunas características técnicas.
+
+El comando whoami muestra el nombre del usuario que tiene la sesión iniciada en ese momento.
+
+Conocer esta información es importante porque ayuda a entender mejor el entorno donde está funcionando el 
+servidor. Además, permite verificar con qué usuario se están realizando las acciones y facilita la 
+administración, configuración y solución de posibles problemas.

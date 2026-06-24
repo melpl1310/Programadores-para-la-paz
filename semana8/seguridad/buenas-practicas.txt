@@ -1,0 +1,4 @@
+Prácticas básicas de seguridad digital:
+1. Revisar los permisos que tienen las aplicaciones antes de instalarlas.
+2. Evitar conectarse a redes Wi-Fi públicas para acceder a información sensible.
+3. Reportar actividades sospechosas o intentos de fraude a los administradores del sistema.

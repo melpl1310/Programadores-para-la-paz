@@ -1,0 +1,7 @@
+Prácticas de seguridad
+1. Realizar copias de seguridad periódicas para evitar la pérdida de información importante.
+2. Utilizar autenticación en dos pasos para aumentar la seguridad de las cuentas de los usuarios.
+3. Mantener actualizados los sistemas y aplicaciones para corregir vulnerabilidades.
+4. Verificar y validar la información que se recibe para evitar datos incorrectos o maliciosos.
+5. Monitorear la actividad de la plataforma para detectar comportamientos sospechosos o intentos de acceso
+no autorizados.
