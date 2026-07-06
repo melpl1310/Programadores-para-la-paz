@@ -1,0 +1,9 @@
+Historias de usuario relacionadas con una solución comunitaria o de veeduría.
+1. Como líder comunitario quiero aprobar las publicaciones antes de que sean visibles para asegurar que la
+información compartida sea adecuada.
+2. Como ciudadano quiero conocer el estado de las solicitudes que he enviado para saber si ya están siendo
+atendidas.
+3. Como coordinador quiero generar un resumen de los reportes recibidos para identificar los problemas más
+frecuentes de la comunidad.
+4. Como voluntario quiero agregar fotografías como evidencia en los reportes para respaldar la información
+registrada.

@@ -1,0 +1,20 @@
+Pregunta: ¿Qué 2 tareas del backlog harías primero?
+Respuestas:
+1. Permitir que el líder comunitario apruebe las publicaciones antes de que sean visibles.
+2. Mostrar a los ciudadanos el estado de las solicitudes que enviaron.
+
+Pregunta: ¿Por qué son las más importantes?
+
+Respuesta: Porque ayudan a mantener la información organizada y confiable, además de permitir que los 
+ciudadanos sepan qué está pasando con sus reportes, lo que genera más confianza en la plataforma.
+
+Pregunta: ¿Qué significa para ti que una tarea esté "terminada"?
+
+Respuesta: Para mí, una tarea está terminada cuando cumple con lo que se pidió, funciona correctamente y 
+puede ser utilizada sin presentar errores.
+
+Definición simple de terminado:
+
+La función cumple con el objetivo para el que fue creada.
+Se verificó que funciona correctamente y no presenta errores.
+El cambio quedó guardado y registrado en Git con su respectivo commit.
