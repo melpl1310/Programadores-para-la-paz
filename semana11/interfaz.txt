@@ -1,0 +1,6 @@
+La plataforma mostraría una pantalla principal donde los usuarios puedan explorar las causas que otras 
+personas han compartido. En la parte superior habría un espacio para publicar una nueva causa escribiendo 
+la información necesaria. Al abrir una causa, aparecería un botón para expresar el apoyo y un número que 
+indique cuántas personas ya lo han hecho. El diseño sería fácil de usar para que cualquier usuario encuentre
+las opciones rápidamente, sin revelar datos personales de quienes participan.
+

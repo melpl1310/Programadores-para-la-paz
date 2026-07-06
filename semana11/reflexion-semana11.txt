@@ -1,0 +1,8 @@
+Una plataforma de participación ciudadana debe contar con una base de datos para guardar toda la 
+información de manera organizada y evitar que se pierda. También es importante que tenga un sistema de 
+inicio de sesión para saber quién está usando la plataforma y controlar el acceso a ciertas funciones. 
+Proteger la información ayuda a cuidar los datos personales de los usuarios y evita que personas no 
+autorizadas puedan verlos o modificarlos. Además, esto hace que la plataforma sea más confiable y segura 
+para todos. Cuando los usuarios sienten que su información está protegida, participan con más tranquilidad.
+En general, estas herramientas permiten que la plataforma funcione de una mejor manera y beneficie a toda 
+la comunidad.

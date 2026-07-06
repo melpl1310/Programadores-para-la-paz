@@ -1,0 +1,25 @@
+Modelo básico de datos para una plataforma comunitaria:
+
+Entidad No. 1: Reporte
+
+Campos principales:
+id
+titulo
+descripcion
+categoria
+fecha
+
+Propósito: Guardar los reportes enviados por los ciudadanos para registrar las situaciones que necesitan 
+atención.
+
+Entidad No. 2: Seguimiento
+
+Campos principales:
+id
+reporte_id
+estado
+comentario
+fecha_actualizacion
+
+Propósito: Registrar el estado y las actualizaciones de cada reporte para llevar un control de su avance 
+y mantener informados a los usuarios.

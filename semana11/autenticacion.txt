@@ -1,0 +1,7 @@
+El login es la forma en que una aplicación verifica la identidad de un usuario antes de permitirle ingresar.
+Gracias a esto, cada persona puede acceder únicamente a las funciones y la información que le corresponden.
+Proteger algunas rutas es importante para evitar accesos no autorizados y mantener la seguridad de la 
+plataforma. De esta manera, solo los usuarios con permisos pueden realizar ciertas acciones. Además, no se
+deben mostrar públicamente datos como contraseñas, documentos de identidad, números de teléfono, direcciones,
+tokens o cualquier otra información confidencial.
+
