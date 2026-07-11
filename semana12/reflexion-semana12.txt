@@ -1,0 +1,7 @@
+Durante este curso aprendí que la tecnología puede ser una herramienta muy útil para fortalecer la 
+participación ciudadana y el trabajo en comunidad. Comprendí que una plataforma bien diseñada facilita que 
+las personas compartan información, hagan reportes y participen de forma organizada. También entendí la 
+importancia de proteger los datos de los usuarios y aplicar buenas prácticas de seguridad. Además, aprendí
+conceptos sobre bases de datos, APIs, servidores y automatizaciones que ayudan a que estas plataformas 
+funcionen mejor. Todo esto me permitió entender que la tecnología no solo sirve para desarrollar 
+aplicaciones, sino también para apoyar a las comunidades y buscar soluciones a sus necesidades.

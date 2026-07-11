@@ -1,0 +1,8 @@
+Automatización simple:
+
+Evento: Cuando se crea un nuevo reporte en la plataforma, se activa una notificación por Telegram.
+
+Mensaje: "Hay un nuevo reporte registrado. Ingresa a la plataforma para revisarlo."
+
+Información que no debe enviarse: Contraseñas, correos electrónicos, documentos de identidad, direcciones,
+datos bancarios ni cualquier otra información personal de los usuarios.

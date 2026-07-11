@@ -1,0 +1,22 @@
+Modelo basico de datos:
+
+Entidad: Usuario
+
+id
+nombre
+correo
+fecha_registro
+
+Esta entidad sirve para guardar la información básica de las personas que utilizan la plataforma y 
+participan en las diferentes actividades.
+
+Entidad: Reporte
+
+id
+titulo
+descripcion
+estado
+fecha
+
+Esta entidad permite registrar los reportes que realizan los usuarios sobre alguna situación en la 
+comunidad. También ayuda a llevar el control del estado de cada reporte y la fecha en que fue creado.

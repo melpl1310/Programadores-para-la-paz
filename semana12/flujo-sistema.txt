@@ -1,0 +1,8 @@
+Sistema Petición en 3 Clics:
+
+1. Un usuario ingresa a la plataforma y crea una petición.
+2. La información se guarda para que no se pierda.
+3. Otras personas pueden entrar y apoyar la petición.
+4. El sistema va registrando la cantidad de apoyos recibidos.
+5. Cuando la petición cumple el objetivo, se genera un documento con la información para presentarlo a la 
+entidad correspondiente.
